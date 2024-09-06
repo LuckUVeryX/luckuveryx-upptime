@@ -11,10 +11,6 @@ sites:
     url: https://luckuveryx.github.io/spaced/
   - name: Star Realms Health Counter
     url: https://luckuveryx.github.io/star_realms_health_counter/
-  - name: Glints
-    url: https://glints.com/
-  - name: Glints Emp
-    url: https://employers.glints.com/
   - name: Glints Staging
     url: https://staging.glints.com/
   - name: Glints Staging Emp
