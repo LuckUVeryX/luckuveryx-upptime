@@ -31,7 +31,7 @@ status-website:
   introMessage: "LuckUVeryX's Upptime Monitor"
   navbar:
     - title: Status
-      href: /
+      href: /luckuveryx-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
