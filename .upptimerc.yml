@@ -3,18 +3,22 @@ owner: LuckUVeryX # Your GitHub organization or username, where this repository 
 repo: luckuveryx-upptime # The name of this repository
 
 sites:
-  - name: Portfolio
+  - name: LuckUVeryX
     url: https://luckuveryx.github.io/
+  - name: Glints Staging
+    url: https://staging.glints.com/
+  - name: Glints Staging Emp
+    url: https://employers.staging.glints.com/
+  - name: RWS
+    url: https://www.rwsentosa.com/
+  - name: Evolve MMA
+    url: https://book.evolve-mma.com/
   - name: Minions
     url: https://luckuveryx.github.io/minions/
   - name: Spaced
     url: https://luckuveryx.github.io/spaced/
   - name: Star Realms Health Counter
     url: https://luckuveryx.github.io/star_realms_health_counter/
-  - name: Glints Staging
-    url: https://staging.glints.com/
-  - name: Glints Staging Emp
-    url: https://employers.staging.glints.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
