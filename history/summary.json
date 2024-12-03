@@ -60,9 +60,9 @@
     "url": "https://www.rwsentosa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rwsentosa.com.ico",
     "slug": "rws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 1317,
     "timeMonth": 1154,
     "timeYear": 1246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "Evolve MMA",
