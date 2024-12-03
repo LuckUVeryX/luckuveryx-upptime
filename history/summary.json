@@ -60,19 +60,19 @@
     "url": "https://www.rwsentosa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rwsentosa.com.ico",
     "slug": "rws",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1246,
-    "timeDay": 1186,
-    "timeWeek": 1317,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1245,
+    "timeDay": 1170,
+    "timeWeek": 1296,
     "timeMonth": 1154,
-    "timeYear": 1246,
+    "timeYear": 1245,
     "dailyMinutesDown": {
-      "2024-12-03": 0
+      "2024-12-03": 10
     }
   },
   {
