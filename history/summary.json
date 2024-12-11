@@ -42,19 +42,19 @@
     "url": "https://employers.staging.glints.com/",
     "icon": "https://icons.duckduckgo.com/ip3/employers.staging.glints.com.ico",
     "slug": "glints-staging-emp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 827,
-    "timeDay": 757,
-    "timeWeek": 842,
-    "timeMonth": 807,
+    "timeDay": 790,
+    "timeWeek": 844,
+    "timeMonth": 808,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-12-11": 0
+      "2024-12-11": 18
     }
   },
   {
