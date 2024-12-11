@@ -1,7 +1,7 @@
 url: https://employers.staging.glints.com/
-status: down
-code: 503
-responseTime: 801
-lastUpdated: 2024-12-11T10:30:13.727Z
+status: up
+code: 200
+responseTime: 858
+lastUpdated: 2024-12-11T10:47:48.724Z
 startTime: 2024-09-06T07:33:48.296Z
 generator: Upptime <https://github.com/upptime/upptime>
