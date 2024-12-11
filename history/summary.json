@@ -42,18 +42,20 @@
     "url": "https://employers.staging.glints.com/",
     "icon": "https://icons.duckduckgo.com/ip3/employers.staging.glints.com.ico",
     "slug": "glints-staging-emp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 827,
-    "timeDay": 712,
-    "timeWeek": 848,
+    "timeDay": 757,
+    "timeWeek": 842,
     "timeMonth": 807,
     "timeYear": 827,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-11": 0
+    }
   },
   {
     "name": "RWS",
