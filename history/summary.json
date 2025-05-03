@@ -101,18 +101,20 @@
     "url": "https://luckuveryx.github.io/minions/",
     "icon": "https://icons.duckduckgo.com/ip3/luckuveryx.github.io.ico",
     "slug": "minions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 57,
-    "timeWeek": 97,
-    "timeMonth": 95,
-    "timeYear": 85,
-    "dailyMinutesDown": {}
+    "time": 88,
+    "timeDay": 556,
+    "timeWeek": 217,
+    "timeMonth": 126,
+    "timeYear": 88,
+    "dailyMinutesDown": {
+      "2025-05-03": 0
+    }
   },
   {
     "name": "Spaced",
