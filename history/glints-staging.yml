@@ -1,7 +1,7 @@
 url: https://staging.glints.com/
-status: down
-code: 502
-responseTime: 20806
-lastUpdated: 2025-06-11T23:08:58.362Z
+status: up
+code: 200
+responseTime: 2289
+lastUpdated: 2025-06-11T23:15:33.203Z
 startTime: 2024-09-06T07:33:45.278Z
 generator: Upptime <https://github.com/upptime/upptime>
