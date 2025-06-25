@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 131,
-    "timeWeek": 150,
-    "timeMonth": 136,
+    "timeDay": 119,
+    "timeWeek": 144,
+    "timeMonth": 135,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.93%",
-    "time": 2755,
-    "timeDay": 3128,
-    "timeWeek": 3054,
-    "timeMonth": 3521,
-    "timeYear": 2755,
+    "time": 2754,
+    "timeDay": 2983,
+    "timeWeek": 3014,
+    "timeMonth": 3504,
+    "timeYear": 2754,
     "dailyMinutesDown": {
       "2025-06-16": 16,
       "2025-06-12": 32,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 815,
-    "timeDay": 807,
-    "timeWeek": 826,
-    "timeMonth": 800,
+    "timeDay": 823,
+    "timeWeek": 829,
+    "timeMonth": 801,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2024-12-11": 18
@@ -76,7 +76,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 128,
+    "timeDay": 148,
     "timeWeek": 182,
     "timeMonth": 205,
     "timeYear": 149,
@@ -84,27 +84,27 @@
   },
   {
     "name": "Singapore Oceanarium",
-    "url": "https://www.singaporeoceanarium.com/en.html",
+    "url": "https://www.singaporeoceanarium.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.singaporeoceanarium.com.ico",
     "slug": "singapore-oceanarium",
     "status": "down",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
+    "time": 87,
+    "timeDay": 87,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-06-25": 0
+      "2025-06-25": 7
     }
   },
   {
     "name": "Singapore Oceanarium Ticketing",
-    "url": "https://www.singaporeoceanarium.com/en/ticketing/reservation/date-and-ticket-selection.html",
+    "url": "https://www.singaporeoceanarium.com/en/ticketing/",
     "icon": "https://icons.duckduckgo.com/ip3/www.singaporeoceanarium.com.ico",
     "slug": "singapore-oceanarium-ticketing",
     "status": "down",
@@ -113,13 +113,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 9,
-    "timeDay": 9,
-    "timeWeek": 9,
-    "timeMonth": 9,
-    "timeYear": 9,
+    "time": 11,
+    "timeDay": 11,
+    "timeWeek": 11,
+    "timeMonth": 11,
+    "timeYear": 11,
     "dailyMinutesDown": {
-      "2025-06-25": 0
+      "2025-06-25": 7
     }
   }
 ]
