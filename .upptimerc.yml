@@ -11,10 +11,6 @@ sites:
     url: https://employers.staging.glints.com/
   - name: Evolve MMA
     url: https://book.evolve-mma.com/
-  - name: Singapore Oceanarium
-    url: https://www.singaporeoceanarium.com/
-  - name: Singapore Oceanarium Ticketing
-    url: https://www.singaporeoceanarium.com/en/ticketing/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
