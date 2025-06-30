@@ -69,19 +69,19 @@
     "url": "https://gitlab.glints.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.glints.com.ico",
     "slug": "glints-gitlab",
-    "status": "down",
-    "uptime": "54.03%",
-    "uptimeDay": "54.03%",
-    "uptimeWeek": "54.03%",
-    "uptimeMonth": "54.03%",
-    "uptimeYear": "54.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.95%",
+    "uptimeDay": "0.95%",
+    "uptimeWeek": "0.95%",
+    "uptimeMonth": "0.95%",
+    "uptimeYear": "0.95%",
+    "time": 1724,
+    "timeDay": 1724,
+    "timeWeek": 1724,
+    "timeMonth": 1724,
+    "timeYear": 1724,
     "dailyMinutesDown": {
-      "2025-06-30": 0
+      "2025-06-30": 38
     }
   },
   {
