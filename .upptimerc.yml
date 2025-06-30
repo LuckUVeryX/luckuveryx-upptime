@@ -9,6 +9,8 @@ sites:
     url: https://staging.glints.com/
   - name: Glints Staging Emp
     url: https://employers.staging.glints.com/
+  - name: Glints Gitlab
+    url: https://gitlab.glints.com/
   - name: Evolve MMA
     url: https://book.evolve-mma.com/
 
